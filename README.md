@@ -1,52 +1,118 @@
-# 👩🏻‍💻 Analice Rodrigues
+<!--- Banner -->
+<p align="center">
+  <img src="assets/shy.gif" width="1000px" height="500px" alt="Shy Cat" />
+</p>
 
-**`Desenvolvedora`**
+</br> 
+<img src="assets/iconcat_3.jpg" width=320 align="left">
 
-Oii me chamo Analice Rodrigues Andrade, tenho 22 anos e atualmente estou cursando Engenharia da Computaçãp no IFSP-Birigui.
-<div> 
- <a href="https://github.com/anarodan?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/anarodan?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-<a href="https://instagram.com/analicerodan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/analicerodan#1855" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "analiceroandrade@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/analicerodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="justify">
+
+<!--- About me -->
+### Sobre mim
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=8135B4&background=F29FFF00&width=500&height=30&lines=Ol%C3%A1+visitante!+Me+chamo+Analice+%F0%9F%92%9C;Sou+desenvolvedora;Amo+jogos+de+tabuleiro+%F0%9F%8E%A8;Adoro+gatinhos+e+jogos+2D!+%E2%AD%90)](https://git.io/typing-svg)
+
+Sou estudante de `Engenharia da Computação` no **IFSP Câmpus Birigui**.
+Tenho grande interesse em análise de dados e desenvolvimento, unindo lógica, tecnologia e criatividade para transformar informações e necessidades em aplicações funcionais.
+Tenho experiência em projetos em `Java`, `Python`, `.NET`, `Javascript` e atualmente estou aprendendo mais sobre `Análise de Dados`! 
+Sou muito curiosa e estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia!
+
+</div>
+</br>
+
+--- 
+
+<!--- My stacks -->
+<div align="center">
+
+### Tecnologias que uso
+
+  <img src="https://img.shields.io/badge/HTML5-66298f?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-66298f?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-66298f?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-66298f?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-66298f?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-66298f?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-66298f?style=for-the-badge&logo=mongodb&logoColor=white" />
+</br>
+  <img src="https://img.shields.io/badge/Node.js-66298f?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-66298f?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-66298f?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-66298f?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-66298f?style=for-the-badge&logo=neon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-66298f?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-66298f?style=for-the-badge&logo=jsonwebtoken&logoColor=white" />
+
+#### Tools
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datadog-000000?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=white" />
   
 </div>
 
+--- 
 
-### 🤖 Linguagens e Tecnologias
+<img src="assets/iconcat_1.jpg" width=300 align="right">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div align="justify">
+    
+### Um pouco mais sobre mim! 
+Eu gosto de desafios que me fazem crescer! 
+Gosto de ajudar pessoas usando a tecnologia.
+Acredito que a tecnologia é capaz de transformar a vida das pessoas para melhor, e é por isso que sigo aprendendo, criando e buscando soluções que façam a diferença. </br>
+Sou a maior fã existente de `One Piece` e `Mangas`!
+
+**Fale comigo:**
+
+  <a href="https://www.linkedin.com/in/analicerodrigues">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:analiceroandrade@hotmail.com">
+    <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
 </div>
 
-### 📊 Estatísticas
+</br></br></br></br>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=anarodan&show_icons=true&theme=omni&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarodan&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture>
 
+---
+
+<div align="center">
+
+<p align="center">
+  <img src="assets/hearts.jpg" width="200px" height="100px" alt="Shy Cat" />
+</p>
+
+<!-- Statistics -->
+### Estatísticas
+
+</div>
+
+| ![Analice Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anarodan&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anarodan&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anarodan&theme=midnight_purple) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anarodan&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=anarodan&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
+| :-: | :-: |
+
+--- 
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5YWZwZDBneTZ1eXU2b2xsNm92c3l3bzFoeXliYW05YWpxdTJqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XflxzGoMXkpe9bvyk8/giphy.gif" width="250px" alt="GIF gandalf" />
+</p>
+
+</br> 
+
+<p align="center">
+  Obrigada por visitar meu perfil! 💜
 </p>
