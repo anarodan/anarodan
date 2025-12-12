@@ -91,7 +91,7 @@ Sou a maior fã existente de `One Piece` e `Mangas`!
 <div align="center">
 
 <p align="center">
-  <img src="assets/hearts.jpg" width="200px" height="100px" alt="Shy Cat" />
+  <img src="hearts.jpg" width="200px" height="100px" alt="Shy Cat" />
 </p>
 
 <!-- Statistics -->
