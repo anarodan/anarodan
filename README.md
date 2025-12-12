@@ -1,10 +1,10 @@
 <!--- Banner -->
 <p align="center">
-  <img src="assets/shy.gif" width="1000px" height="500px" alt="Shy Cat" />
+  <img src="shy.gif" width="1000px" height="500px" alt="Shy Cat" />
 </p>
 
 </br> 
-<img src="assets/iconcat_3.jpg" width=320 align="left">
+<img src="iconcat_3.jpg" width=320 align="left">
 
 <div align="justify">
 
@@ -55,7 +55,7 @@ Sou muito curiosa e estou constantemente atualizando meus conhecimentos e buscan
 
 --- 
 
-<img src="assets/iconcat_1.jpg" width=300 align="right">
+<img src="iconcat_1.jpg" width=300 align="right">
 
 <div align="justify">
     
@@ -81,9 +81,9 @@ Sou a maior fã existente de `One Piece` e `Mangas`!
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anarodan/anarodan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anarodan/anarodan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anarodan/anarodan/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
