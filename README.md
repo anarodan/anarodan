@@ -27,29 +27,29 @@ Sou muito curiosa e estou constantemente atualizando meus conhecimentos e buscan
 
 ### Tecnologias que uso
 
-  <img src="https://img.shields.io/badge/HTML5-66298f?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-66298f?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-66298f?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-66298f?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-66298f?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-66298f?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-66298f?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-66298f?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-66298f?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-66298f?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySql-66298f?style=for-the-badge&logo=mysql&logoColor=white" />
 </br>
   <img src="https://img.shields.io/badge/Node.js-66298f?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-66298f?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-66298f?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-66298f?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-66298f?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-66298f?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neon-66298f?style=for-the-badge&logo=neon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-66298f?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-66298f?style=for-the-badge&logo=jsonwebtoken&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-66298f?style=for-the-badge&logo=c++&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-66298f?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerQuery-66298f?style=for-the-badge&logo=powerquery&logoColor=white" />
 
 #### Tools
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Datadog-000000?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/JupyterNotebook-000000?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/DataBricks-000000?style=for-the-badge&logo=databricks&logoColor=white" />
   
 </div>
 
